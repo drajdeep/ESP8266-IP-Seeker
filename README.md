@@ -19,7 +19,7 @@ Explore and integrate this code to streamline the process of connecting your ESP
 ### Installation
 
 1. Clone or download this repository.
-2. Open the `ESP8266_WiFi_Connection.ino` file in the Arduino IDE.
+2. Open the `ESP8266_IP_Seeker.ino` file in the Arduino IDE.
 3. Modify the following lines in the code with your Wi-Fi network's SSID and password:
     
     WiFi.begin("your_network_ssid", "your_network_password");
